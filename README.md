@@ -1,1 +1,1 @@
-# Accurate-Identification-of-Ilex-Aquifoliaceae-Taxa-Based-on-Leaf-Morphology-Using-Deep-Learning
+# Accurate Identification of Ilex(Aquifoliaceae) Taxa Based on Leaf Morphology Using Deep Learning
