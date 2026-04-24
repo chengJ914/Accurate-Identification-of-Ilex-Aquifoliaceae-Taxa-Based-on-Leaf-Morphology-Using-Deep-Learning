@@ -3,7 +3,7 @@
 This repository focuses on fine-grained classification of *Ilex* leaf images using PyTorch, with a unified training and evaluation pipeline across six CNN architectures:
 `GoogLeNet`, `ResNet50`, `ResNet101`, `DenseNet121`, `DenseNet169`, and `EfficientNet-B3`.
 
-> Related paper: **Accurate Identification of Ilex (Aquifoliaceae) Taxa Based on Leaf Morphology Using Deep Learning**
+> Related paper: **Accurate Identification of *Ilex* (Aquifoliaceae) Taxa Based on Leaf Morphology Using Deep Learning**
 
 ## Highlights
 
