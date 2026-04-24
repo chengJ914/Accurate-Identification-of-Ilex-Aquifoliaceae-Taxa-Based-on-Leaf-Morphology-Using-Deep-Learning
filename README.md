@@ -31,14 +31,14 @@ EfficientNet-B3 5-fold (image-level split) result: **99.40% ± 0.12%**.
 
 > Export selected figures from the paper and place them in `figures/` using the filenames below.
 
-### 1) Model Architectures (Figure 1)
-![Figure 1: Six model structures](figures/figure1_model_architectures.png)
+### 1) Model Architectures
+![Figure 1: Six model structures](figures/figure1.png)
 
-### 2) Training and Validation Curves (Figure 2)
-![Figure 2: Training and validation curves](figures/figure2_train_val_curves.png)
+### 2) Training and Validation Curves
+![Figure 2: Training and validation curves](figures/figure2.png)
 
-### 3) AI Holly Web Demo (Figure 6)
-![Figure 6: AI Holly website interface](figures/figure6_ai_holly_website.png)
+### 3) AI Holly Web Demo
+![Figure 6: AI Holly website interface](figures/figure3.png)
 
 ## Project Structure
 
