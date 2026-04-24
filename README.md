@@ -26,9 +26,8 @@ This repository focuses on fine-grained classification of *Ilex* leaf images usi
 
 EfficientNet-B3 5-fold (image-level split) result: **99.40% ± 0.12%**.
 
-## Selected Figures
+## Figures
 
-> Export selected figures from the paper and place them in `figures/` using the filenames below.
 
 ### 1) Model Architectures
 ![Figure 1: Six model structures](figure/figure1.png)
